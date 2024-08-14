@@ -1,14 +1,3 @@
----
-link: "[[Study - OpenCV]]"
-tags:
-  - unorganized
-  - uncompleted
----
-#uncompleted
-- [ ] [[Practice1 - Image output#[ Output of each piece of code and the entire file]] I haven't completed this header part.
-- [ ] read options (I didn't follow through with putting them in the imread function by color.)
-
-
 # 1. Reading 
 Reading options
 1. cv2.IMREAD_COLOR : 컬러 이미지
